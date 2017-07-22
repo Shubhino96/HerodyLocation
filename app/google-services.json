@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752147984268",
+    "firebase_url": "https://herodylocation.firebaseio.com",
+    "project_id": "herodylocation",
+    "storage_bucket": "herodylocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752147984268:android:2081f9f43cfb02fd",
+        "android_client_info": {
+          "package_name": "com.example.shubhangi.herodylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752147984268-i2vjedgq9eflj6rdnbocob1jh50fk1ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubhangi.herodylocation",
+            "certificate_hash": "851243028dae4272ac062c8a29935107b4676edb"
+          }
+        },
+        {
+          "client_id": "752147984268-3qi2is0m6adnno206t57ag3m78pje4kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUf2ixg4aVhvcpEfRlfaW1ayDj-rs2mM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752147984268-3qi2is0m6adnno206t57ag3m78pje4kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
