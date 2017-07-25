@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HerodyLocation.iml" filepath="$PROJECT_DIR$/HerodyLocation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herodylibrary/herodylibrary.iml" filepath="$PROJECT_DIR$/herodylibrary/herodylibrary.iml" />
     </modules>
   </component>
 </project>
